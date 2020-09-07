@@ -18,3 +18,16 @@ Marat Gumerov
   - +375 44 53 453 30;
   
 ---
+## Summary:
+My goal is web development (front and back). Javascript is my favorite programming language.
+  
+---
+
+## Skills:
+	
+ ### @ Web
+- HTML+CSS
+- CSS processing: Sass
+- JavaScript (base)
+	
+ ### @ Version control

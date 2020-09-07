@@ -1,2 +1,1 @@
-# rsschool-cv
-"Markdown &amp; Git" task (RSS)
+https://gumerov-marat.github.io/rsschool-cv/cv
